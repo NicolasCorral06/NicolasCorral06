@@ -1,7 +1,7 @@
 # 👋 Ola, me chamo Nicolás!
 
-Sou um estudante de TI que prefere o Back-End
-Atualmente utilizando para aulas e projetos HTML, CSS, PHP, JS e MYSQL
+Sou um estudante de TI que prefere o Back-End.
+Atualmente utilizando para aulas e projetos HTML, CSS, PHP, JS e MYSQL.
 
 <!---
 - 👋 Hi, I’m @NicolasCorral06
