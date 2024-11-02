@@ -14,7 +14,7 @@ Sou um estudante de **Desenvolvimento Web** com uma paixão por desenvolvimento 
 - Começando a me envolver mais no mundo linux, redes e servidores.
 
 ## 🎯 Projetos em destaque:
-A **GameOne**, um e-commerce de vendas de jogos fisicos. É um projeto de Trabalho Colaborativo Autoral(TCA) realizado em grupo em 2023.
+**GameOne**: Um e-commerce de vendas de jogos fisicos. É um projeto de Trabalho Colaborativo Autoral(TCA) realizado em grupo em 2023.
 
 ## 🚀 Sobre mim:
 - Gosto de aprender coisas novas e encontrar desafios para me testar.
