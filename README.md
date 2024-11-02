@@ -10,8 +10,8 @@ Sou um estudante de **Desenvolvimento Web** com uma paixão por desenvolvimento 
 
 ## 📚 O que estou aprendendo:
 - Sempre aprimorando minhas habilidades em **PHP** e **MySQL**.
-- Começando a aprender C/C++ para ter uma noção maior em programação e "Low-level Coding".
-- Começando a me envolver mais no mundo linux, redes e servidores.
+- Começando a aprender **C/C++** para ter uma noção maior em programação e "Low-level Coding".
+- Começando a me envolver mais no mundo **linux**, **redes** e **servidores**.
 
 ## 🎯 Projetos em destaque:
 **GameOne**: Um e-commerce de vendas de jogos fisicos. É um projeto de Trabalho Colaborativo Autoral(TCA) realizado em grupo em 2023.
