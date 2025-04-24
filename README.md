@@ -2,6 +2,6 @@
 
 Sou um cara que gosta até de mais de computadores e qualquer coisa relacionada. 
 
-## Projetos principais
+## Projetos em destaque
 - GameOne: TCA 2023. Um e-commerce de venda de jogos fisicos e digitais
 - Enlace: TCC 2024. Um site de contrato de serviços de interpretes de libras
